@@ -189,7 +189,7 @@ python -m venv .venv
 
 | Học viên | Git author / email | Module / vai trò | Commit SHA / diff chứng minh | Trình bày? |
 |---|---|---|---|---|
-| Phan Lê Hoàng Phúc | Phan Le Hoang Phuc <phuchoang.path@gmail.com> | Solo Full Project: Integration, Core QC Pipeline (src/pipeline.py), Configs, Unit Tests (tests/test_t02_poc.py), Human Review & Audit Log, Final Report | Các commits trên nhánh main | Có (100%) |
+| Phan Lê Hoàng Phúc | Phan Le Hoang Phuc <phuchoang.path@gmail.com> | Solo Full Project| Các commits trên nhánh main | Có (100%) |
 
 ---
 
